@@ -13,6 +13,9 @@
 		A72A2C9D27E51FE0008484EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A72A2C9B27E51FE0008484EF /* Main.storyboard */; };
 		A72A2C9F27E51FE2008484EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A72A2C9E27E51FE2008484EF /* Assets.xcassets */; };
 		A72A2CA227E51FE2008484EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A72A2CA027E51FE2008484EF /* LaunchScreen.storyboard */; };
+		A72A2CAA27E52059008484EF /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = A72A2CA927E52058008484EF /* logo.png */; };
+		A72A2CAC27E5205F008484EF /* btnGenerate.png in Resources */ = {isa = PBXBuildFile; fileRef = A72A2CAB27E5205F008484EF /* btnGenerate.png */; };
+		A72A2CAE27E52064008484EF /* btnGeneratePressed.png in Resources */ = {isa = PBXBuildFile; fileRef = A72A2CAD27E52063008484EF /* btnGeneratePressed.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		A72A2C9E27E51FE2008484EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A72A2CA127E51FE2008484EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A72A2CA327E51FE2008484EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A72A2CA927E52058008484EF /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		A72A2CAB27E5205F008484EF /* btnGenerate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btnGenerate.png; sourceTree = "<group>"; };
+		A72A2CAD27E52063008484EF /* btnGeneratePressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btnGeneratePressed.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				A72A2C9E27E51FE2008484EF /* Assets.xcassets */,
 				A72A2CA027E51FE2008484EF /* LaunchScreen.storyboard */,
 				A72A2CA327E51FE2008484EF /* Info.plist */,
+				A72A2CA927E52058008484EF /* logo.png */,
+				A72A2CAB27E5205F008484EF /* btnGenerate.png */,
+				A72A2CAD27E52063008484EF /* btnGeneratePressed.png */,
 			);
 			path = NumberGenerator;
 			sourceTree = "<group>";
@@ -125,9 +134,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A72A2CAA27E52059008484EF /* logo.png in Resources */,
 				A72A2CA227E51FE2008484EF /* LaunchScreen.storyboard in Resources */,
+				A72A2CAC27E5205F008484EF /* btnGenerate.png in Resources */,
 				A72A2C9F27E51FE2008484EF /* Assets.xcassets in Resources */,
 				A72A2C9D27E51FE0008484EF /* Main.storyboard in Resources */,
+				A72A2CAE27E52064008484EF /* btnGeneratePressed.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
